@@ -760,7 +760,7 @@ label{
     background-color: var(--ocean);
     color: var(--cloud);
     border-color: var(--ocean);
-    border-radius: 50%;
+    /* border-radius: 50%; */
 }
 .modal.is-hidden{
     visibility: hidden;
