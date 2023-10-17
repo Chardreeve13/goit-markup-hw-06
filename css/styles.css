@@ -767,7 +767,7 @@ label{
     opacity: 0px;
     pointer-events: none;
 }
-.modal.is-hidden .modal-content{
+.modal.is-hidden .modal{
     transform: translate(0px);
 }
 
