@@ -754,7 +754,7 @@ label{
 .modal-close-icon{
     width: 8px;
     height: 10px;
-    fill: currentColor;
+    /* fill: currentColor; */
 }
 .modal-close:hover {
     background-color: var(--ocean);
