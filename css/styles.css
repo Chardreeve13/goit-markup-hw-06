@@ -760,14 +760,14 @@ label{
     background-color: var(--ocean);
     color: var(--cloud);
     border-color: var(--ocean);
-    /* border-radius: 50%; */
+    border-radius: 50%;
 }
 .modal.is-hidden{
     visibility: hidden;
     opacity: 0px;
     pointer-events: none;
 }
-.modal.is-hidden{
+.modal.is-hidden .modal{
     transform: translate(0px);
 }
 
